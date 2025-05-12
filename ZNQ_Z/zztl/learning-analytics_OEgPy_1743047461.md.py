@@ -1,6 +1,5 @@
 from multiprocessing import Pool
 import os
-
 def build_jar_files(dir):
     '''
     Function to build Scala and Java jars for the each relevant chapter
